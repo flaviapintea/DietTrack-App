@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "29177688109",
+    "project_id": "diettrack-303923",
+    "storage_bucket": "diettrack-303923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29177688109:android:d5857e7c2f4052ffa1c8a4",
+        "android_client_info": {
+          "package_name": "com.diettrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29177688109-bmlhc55qo4aai72jkt00cbe6apg908r6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diettrack",
+            "certificate_hash": "a1b3edca77dafd0e2c622a2cb6b9704b05ee7d5d"
+          }
+        },
+        {
+          "client_id": "29177688109-9q749t5e5n7imagiirvsmv8rifj4ntr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWNLKwSVfI5cXrVkbRuHPozTJcZrQxF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29177688109-9q749t5e5n7imagiirvsmv8rifj4ntr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

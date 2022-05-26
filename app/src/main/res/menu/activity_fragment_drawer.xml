@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/ic_menu_user"
+            android:title="@string/profile" />
+        <item
+            android:id="@+id/nav_goal"
+            android:icon="@drawable/ic_menu_goal"
+            android:title="@string/goal" />
+        <item
+            android:id="@+id/nav_categories"
+            android:icon="@drawable/ic_menu_categories"
+            android:title="@string/categories" />
+        <item
+            android:id="@+id/nav_food"
+            android:icon="@drawable/ic_menu_food"
+            android:title="@string/food" />
+        <item
+            android:id="@+id/nav_accelerometer"
+            android:icon="@drawable/ic_menu_accelerometer"
+            android:title="@string/accelerometer" />
+
+        <item
+            android:id="@+id/nav_gfitsteps"
+            android:icon="@drawable/ic_menu_accelerometer"
+            android:title="@string/GoogleFitSteps" />
+
+    </group>
+
+
+</menu>
